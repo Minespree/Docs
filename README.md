@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/discord/352874955957862402.svg)](https://discord.gg/KUFmKXN)
 [![License](https://img.shields.io/github/license/Minespree/Docs.svg)](LICENSE)
 
-This repo contains all the internal documentation, guides and codebooks that developers used to get setup to work on the former Minespree Network. This repo should be the starting point for replicating the original network as there are guides on various internal systems.
+This repo contains all the internal documentation, guides and codebooks that developers used to get setup to work on the former Minespree Network. This repo should be the starting point for replicating the original network as there are guides on most of our internal systems.
 
 Please note that these docs were written to onboard new developers and there might be missing bits you don't have access to.
 
