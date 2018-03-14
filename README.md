@@ -1,7 +1,7 @@
 # Minespree Documentation
 
 [![Discord](https://img.shields.io/discord/352874955957862402.svg)](https://discord.gg/KUFmKXN)
-[![License](https://img.shields.io/github/license/Minespree/Zeus.svg)](LICENSE)
+[![License](https://img.shields.io/github/license/Minespree/Docs.svg)](LICENSE)
 
 This repo contains all the internal documentation, guides and codebooks that developers used to get setup to work on the former Minespree Network. This repo should be the starting point for replicating the original network as there are guides on various internal systems.
 
@@ -30,7 +30,7 @@ Please note that these docs were written to onboard new developers and there mig
 
 ## License
 
-$PROJECT_NAME is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+Docs is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
 
