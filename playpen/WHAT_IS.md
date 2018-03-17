@@ -1,6 +1,6 @@
 # What's PlayPen?
 
-PlayPen is a server management and load balancing framework which manages all our server instances, artifact updating and game/hub load balancing. The project was created by TheChunk developers and it's open sourced on [GitHub](https://github.com/PlayPen/playpen-core). Now, PlayPen uses its own protocol, and you will need to interact with it. For this reason, we mantain a [forked](https://github.com/Minespree/PVI) version of [PVI](https://github.com/PlayPen/PVI), which is a user-friendly Java-FX based client which can stop instances, upload packages and even restart the whole network.
+PlayPen is a server management and load balancing framework which manages all our server instances, artifact updating and game/hub load balancing. The project was created by TheChunk developers and it's open sourced on [GitHub](https://github.com/PlayPen/playpen-core). Now, PlayPen uses its own protocol, and you will need to interact with it. For this reason, ~~we mantain a [forked](https://github.com/Minespree/PVI) version of [PVI](https://github.com/PlayPen/PVI)~~ (use the default client available on [GitHub](https://github.com/PlayPen/PVI)), which is a user-friendly Java-FX based client which can stop instances, upload packages and even restart the whole network.
 
 In order to install it, please head off to the `#important-files-and-data` channel on Discord and scroll all the way up till you find the `PlayPen-1.0.jar` and `PlayPen Visual Interface` JAR files. Once downloaded, please place the PlayPen `.jar` file on a new directory by running:
 
@@ -19,4 +19,4 @@ Open a terminal and run `echo $PLAYPEN_HOME` to ensure the environment variable 
 
 ## Helpful tips
 
-* We encourage you to make changes to the PVI client by pushing your changes to the [PVI](https://github.com/Minespree/PVI) repo on GitLab.
+* We encourage you to make changes to the PVI client by pushing your changes to the [PVI](https://github.com/PlayPen/PVI) repo on GitHub.
